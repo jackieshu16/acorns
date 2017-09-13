@@ -1,0 +1,6 @@
+{
+   "status":"FORBIDDEN",
+   "errorType":"AUTHENTICATION_ERROR",
+   "message":"Developer Inactive",
+   "moreInfoUrl":"http://developer.edmunds.com"
+}
